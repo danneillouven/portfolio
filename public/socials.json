@@ -1,0 +1,43 @@
+[
+    {
+        "name": "github",
+        "icon": "github",
+        "label": "danneillouven",
+        "link": "https://github.com/danneillouven"
+    },
+
+    {
+        "name": "facebook",
+        "icon": "facebook",
+        "label": "danneillouven",
+        "link": "https://facebook.com/danneillouven"
+    },
+
+    {
+        "name": "linkedin",
+        "icon": "linkedin",
+        "label": "danneillouven",
+        "link": "https://www.linkedin.com/in/danneillouven/"
+    },
+
+    {
+        "name": "spotify",
+        "icon": "spotify",
+        "label": "psyxph",
+        "link": "https://open.spotify.com/user/31wm2k23tnofebkqkl6qdq6pbhnq?si=3b9c09b020da4901"
+    },
+
+    {
+        "name": "discord",
+        "icon": "discord",
+        "label": "@psyxph",
+        "link": null
+    },
+
+    {
+        "name": "instagram",
+        "icon": "instagram",
+        "label": "psyxph",
+        "link": "https://www.instagram.com/psyxph/"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "name": "python",
+        "logo": "python"
+    },
+    {
+        "name": "javascript",
+        "logo": "javascript"
+    },
+    {
+        "name": "typescript",
+        "logo": "typescript"
+    },
+    {
+        "name": "java",
+        "logo": "openjdk"
+    },
+    {
+        "name": "php",
+        "logo": "php"
+    },
+    {
+        "name": "dart",
+        "logo": "dart"
+    },
+    {
+        "name": "csharp",
+        "logo": "dotnet"
+    },
+    {
+        "name": "bash",
+        "logo": "gnubash"
+    },
+    {
+        "name": "html",
+        "logo": "html5"
+    },
+    {
+        "name": "css",
+        "logo": "css3"
+    },
+    {
+        "name": "react",
+        "logo": "react"
+    },
+    {
+        "name": "nextjs",
+        "logo": "nextdotjs"
+    },
+    {
+        "name": "codeigniter",
+        "logo": "codeigniter"
+    },
+    {
+        "name": "bootstrap",
+        "logo": "bootstrap"
+    },
+    {
+        "name": "tailwindcss",
+        "logo": "tailwindcss"
+    },
+    {
+        "name": "daisyui",
+        "logo": "daisyui"
+    },
+    {
+        "name": "shadcnui",
+        "logo": "shadcnui"
+    },
+    {
+        "name": "nextui",
+        "logo": "nextui"
+    },
+    {
+        "name": "flutter",
+        "logo": "flutter"
+    },
+    {
+        "name": "postgresql",
+        "logo": "postgresql"
+    },
+    {
+        "name": "mysql",
+        "logo": "mysql"
+    },
+    {
+        "name": "supabase",
+        "logo": "supabase"
+    },
+    {
+        "name": "pocketbase",
+        "logo": "pocketbase"
+    },
+    {
+        "name": "git",
+        "logo": "git"
+    },
+    {
+        "name": "github",
+        "logo": "github"
+    },
+    {
+        "name": "linux",
+        "logo": "linux"
+    },
+    {
+        "name": "ubuntu",
+        "logo": "ubuntu"
+    },
+    {
+        "name": "zorin",
+        "logo": "zorin"
+    },
+    {
+        "name": "vscode",
+        "logo": "vscodium"
+    },
+    {
+        "name": "photoshop",
+        "logo": "adobephotoshop"
+    },
+    {
+        "name": "indesign",
+        "logo": "adobeindesign"
+    },
+    {
+        "name": "premiere",
+        "logo": "adobepremierepro"
+    },
+    {
+        "name": "figma",
+        "logo": "figma"
+    },
+    {
+        "name": "docker",
+        "logo": "docker"
+    }
+]
