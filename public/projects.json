@@ -1,7 +1,7 @@
 [
     {
         "title": "HRIS - Flutter",
-        "image": "/portfolio-v2/assets/images/projects/hrisplsp.png",
+        "image": "/portfolio/assets/images/projects/hrisplsp.png",
         "description": "A capstone project for PLSP, HRIS is a comprehensive system designed to manage employees, daily time records (DTR), and additional special features tailored for organizational needs.",
         "repositoryURL": null,
         "liveURL": "",
@@ -11,7 +11,7 @@
     },
     {
         "title": "PLSP Kiosk",
-        "image": "/portfolio-v2/assets/images/projects/kiosk.jpeg",
+        "image": "/portfolio/assets/images/projects/kiosk.jpeg",
         "description": "A kiosk system for PLSP, designed to provide navigation assistance and a search feature for locating buildings and identifying office occupants.",
         "repositoryURL": null,
         "liveURL": "",
@@ -21,7 +21,7 @@
     },
     {
         "title": "GAD Attribution System",
-        "image": "/portfolio-v2/assets/images/projects/gad.png",
+        "image": "/portfolio/assets/images/projects/gad.png",
         "description": "A GAD Attribution System that leverages an NLP model to analyze files and recommend proposed budgets for projects within designated sectors.",
         "repositoryURL": null,
         "liveURL": "",
@@ -31,7 +31,7 @@
     },
     {
         "title": "Lab Tour",
-        "image": "/portfolio-v2/assets/images/projects/labtour.png",
+        "image": "/portfolio/assets/images/projects/labtour.png",
         "description": "A Lab Tour system showcasing a 360-degree view of laboratories at San Pablo High School using Panolens.js for immersive virtual exploration.",
         "repositoryURL": null,
         "liveURL": "",
@@ -41,7 +41,7 @@
     },
     {
         "title": "Math Quest",
-        "image": "/portfolio-v2/assets/images/projects/mathquest2.jpg",
+        "image": "/portfolio/assets/images/projects/mathquest2.jpg",
         "description": "MathQuest is a classic Pokémon-inspired game designed to teach students basic math concepts in an engaging and interactive way.",
         "repositoryURL": null,
         "liveURL": "",
@@ -51,7 +51,7 @@
     },
     {
         "title": "Inventory Management System - STI",
-        "image": "/portfolio-v2/assets/images/projects/inventory.png",
+        "image": "/portfolio/assets/images/projects/inventory.png",
         "description": "An Inventory Management System for STI San Pablo, featuring a web-based platform integrated with a mobile app for QR code scanning to streamline inventory tracking.",
         "repositoryURL": null,
         "liveURL": "",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Mangata POS",
-        "image": "/portfolio-v2/assets/images/projects/mangata.png",
+        "image": "/portfolio/assets/images/projects/mangata.png",
         "description": "Mangata POS is a point-of-sale system designed to streamline transactions, manage inventory, and generate reports for businesses, providing an efficient and user-friendly interface for sales management.",
         "repositoryURL": null,
         "liveURL": "",
@@ -71,7 +71,7 @@
     },
     {
         "title": "Sapling",
-        "image": "/portfolio-v2/assets/images/projects/sapling.jpeg",
+        "image": "/portfolio/assets/images/projects/sapling.jpeg",
         "description": "Sapling is a student assistant app that offers essential tools like a scientific calculator, dictionary, to-do list, and reminders to help students stay organized and productive.",
         "repositoryURL": null,
         "liveURL": "",
@@ -81,7 +81,7 @@
     },
     {
         "title": "MJ Tea Cafe",
-        "image": "/portfolio-v2/assets/images/projects/mjtea.png",
+        "image": "/portfolio/assets/images/projects/mjtea.png",
         "description": "MJTea Cafe Landing Page is a one-page website designed to showcase the offerings, ambiance, and details of MJ Tea Cafe, providing visitors with a sleek and engaging introduction to the brand.",
         "repositoryURL": null,
         "liveURL": "",
@@ -91,7 +91,7 @@
     },
     {
         "title": "Calendar Scheduler",
-        "image": "/portfolio-v2/assets/images/projects/calendarschedule.png",
+        "image": "/portfolio/assets/images/projects/calendarschedule.png",
         "description": "Calendar Schedule is a web-based calendar application with a login system that allows users to RSVP and manage events with friends, simplifying event scheduling and coordination.",
         "repositoryURL": null,
         "liveURL": "",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Pomodoro Timer",
-        "image": "/portfolio-v2/assets/images/projects/pomodoro.png",
+        "image": "/portfolio/assets/images/projects/pomodoro.png",
         "description": "Pomodoro is a time management app featuring a Pomodoro timer, to-do list, and a login system to track progress and maintain records of completed tasks.",
         "repositoryURL": null,
         "liveURL": "",
