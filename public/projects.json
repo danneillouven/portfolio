@@ -10,16 +10,6 @@
         "year": 2024
     },
     {
-        "title": "PLSP Kiosk",
-        "image": "/portfolio/assets/images/projects/kiosk.jpeg",
-        "description": "A kiosk system for PLSP, designed to provide navigation assistance and a search feature for locating buildings and identifying office occupants.",
-        "repositoryURL": null,
-        "liveURL": "",
-        "processURL": null,
-        "tags": ["TypeScript", "React", "Tanstack", "ShadcnUi", "TailwindCSS", "Pocketbase", "Vercel", "Flutter"],
-        "year": 2024
-    },
-    {
         "title": "GAD Attribution System",
         "image": "/portfolio/assets/images/projects/gad.png",
         "description": "A GAD Attribution System that leverages an NLP model to analyze files and recommend proposed budgets for projects within designated sectors.",
