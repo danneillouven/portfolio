@@ -25,9 +25,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="md:w-6/12 text-xs text-end">
-                    <p>
-                        {"© psyxph 2024. Made with Tears. All Rights Reserved."}
-                    </p>
+                    <p>{"© psyxph 2024. All Rights Reserved."}</p>
                 </div>
             </div>
         </>
