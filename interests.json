@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Data Science",
+        "bits": ["python", "r", "tidyverse", "pandas", "numpy", "seaborn", "plotly", "sklearn", "keras"]
+    },
+
+    {
+        "name": "Web Development",
+        "bits": ["html5", "css3", "python", "javascript", "flask", "react", "javascript", "typescript", "nextjs", "php", "codeigniter", "supabase", "pocketbase"]
+    },
+
+    {
+        "name": "App Development",
+        "bits": ["dart", "flutter", "kotlin", "java"]
+    },
+
+    {
+        "name": "Game Development",
+        "bits": ["python", "java", "pygame", "greenfoot", "game maker"]
+    },
+
+    {
+        "name": "Multi-platform Development",
+        "bits": ["dart", "flutter"]
+    }
+]
